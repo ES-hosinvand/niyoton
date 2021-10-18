@@ -5,26 +5,27 @@
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
++ name: eshagh
++ last name :hosinvand
++ Date of birth : 1993/April/23
++ I am a bank employee and a student
++ location : khoz , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ Banking and mobile repairs
++ Construction
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : Suleiman Mosque
++ Bachelor of Software
++ MA
+_ payam Noor University of South
 
 ### language
 
@@ -38,12 +39,12 @@ _ payam Noor University of North
 + Trade
 + Studing historical books
 + travel 
-+ playing volleyball
++ playing Soccer
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I work in the bank
 
 
 
